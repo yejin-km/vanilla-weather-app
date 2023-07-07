@@ -135,8 +135,6 @@ function displayFahrenheit(event) {
   temperatureElement.innerHTML = Math.round(fahrenheitTemperature);
 }
 
-// search("Raleigh");
-
 let fahrenheitTemperature = null;
 
 let form = document.querySelector("#search-form");
